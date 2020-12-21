@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">buttons</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="Activity2">Well Done!</string>
+    <string name="Activity1">First Page</string>
+    <string name="Pushme">Pussh Me!</string>
+</resources>
